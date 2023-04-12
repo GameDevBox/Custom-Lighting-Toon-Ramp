@@ -9,5 +9,5 @@ Custom Lighting In Unity - Shader | Toon Ramp
 
 ✅ Google Play: https://play.google.com/store/apps/dev?id=5576002128030512939
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/EI8-UY6nUiU/0.jpg)](https://www.youtube.com/watch?v=EI8-UY6nUiU)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MrWcr0UVRXY/0.jpg)](https://www.youtube.com/watch?v=MrWcr0UVRXY)
 
